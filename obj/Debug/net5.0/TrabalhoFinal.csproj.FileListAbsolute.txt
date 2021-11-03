@@ -1,0 +1,16 @@
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.exe
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.deps.json
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.runtimeconfig.json
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.runtimeconfig.dev.json
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.dll
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\ref\TrabalhoFinal.dll
+D:\Development\Cursos\C#\TrabalhoFinal\bin\Debug\net5.0\TrabalhoFinal.pdb
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.csproj.AssemblyReference.cache
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.AssemblyInfoInputs.cache
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.AssemblyInfo.cs
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.csproj.CoreCompileInputs.cache
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.dll
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\ref\TrabalhoFinal.dll
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.pdb
+D:\Development\Cursos\C#\TrabalhoFinal\obj\Debug\net5.0\TrabalhoFinal.genruntimeconfig.cache
